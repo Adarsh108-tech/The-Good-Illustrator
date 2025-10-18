@@ -260,14 +260,14 @@ const GoodestHome = () => {
       />
 
       <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-turkis mb-8 sm:mb-10 md:mb-12 relative z-10 text-center px-4 text-balance">
-        Beyond Pretty. It's About Impact, Integrity, and the Goodest Intention.
+        Beyond Pretty. It&#39;s About Impact, Integrity, and the Goodest Intention.
       </h2>
 
       <div className="w-full max-w-6xl mx-auto flex flex-col lg:flex-row items-start gap-8 sm:gap-10 md:gap-12 lg:gap-16 relative z-10 px-4 sm:px-6 lg:px-0">
         {/* Left Text Content */}
         <div className="flex-1 w-full text-gray-700 text-sm sm:text-base md:text-lg leading-relaxed space-y-4">
           <p className="text-base sm:text-lg">
-            In a world where greenwashing is the norm, "good" isn't good enough. We operate with only goodest
+            In a world where greenwashing is the norm, "good" isn&#39;t good enough. We operate with only goodest
             intentions:
           </p>
 
@@ -279,7 +279,7 @@ const GoodestHome = () => {
               Deep care for the planet, your vision, and the people you serve.
             </li>
             <li className="bg-turkis/20 px-3 sm:px-4 py-2 sm:py-3 rounded-lg text-sm sm:text-base">
-              Building your brand's visuals with actions towards a resilient future.
+              Building your brand&#39;s visuals with actions towards a resilient future.
             </li>
             <li className="bg-turkis/20 px-3 sm:px-4 py-2 sm:py-3 rounded-lg text-sm sm:text-base">
               A partnership where your vision is truly co-created, not just executed.
@@ -290,7 +290,7 @@ const GoodestHome = () => {
           </ul>
 
           <p className="text-base sm:text-lg pt-2">
-            This isn't just about design; it's about building a legacy of trust and tangible change through impactful
+            This isn&#39;t just about design; it&#39;s about building a legacy of trust and tangible change through impactful
             visual storytelling and ethical practices.
           </p>
 
@@ -298,7 +298,7 @@ const GoodestHome = () => {
             asChild
             className="mt-6 sm:mt-8 bg-rosa hover:bg-[#e6a4bb] text-gray-900 font-semibold px-4 sm:px-6 py-2 sm:py-3 rounded-2xl text-sm sm:text-base w-full sm:w-auto"
           >
-            <a href="#">This is a values match! Let's work together</a>
+            <a href="#">This is a values match! Let&#39;s work together</a>
           </Button>
         </div>
 
@@ -319,10 +319,10 @@ const GoodestHome = () => {
       {/* 🏆 Hall of Fame */}
       <section className="py-24 px-6 bg-white text-center">
         <h2 className="text-4xl font-bold text-turkis mb-10">The Goodest Brands Trust Us.</h2>
-        <p className="text-xl mb-10 text-gray-600">Don't just take our word for it. Hear directly from the goodest brands who are already making an unforgettable impact with their new visual identities.</p>
+        <p className="text-xl mb-10 text-gray-600">Don&#39;t just take our word for it. Hear directly from the goodest brands who are already making an unforgettable impact with their new visual identities.</p>
         <div className="grid md:grid-cols-3 gap-10 max-w-6xl mx-auto text-left">
           <div className="bg-[#F3F7F5] p-8 rounded-2xl shadow-sm text-lg">
-            <p className="italic">“She brings a rare mix of creativity, empathy, and strategy to every project. If you're building a brand that matters, Anna is the partner you want by your side.”</p>
+            <p className="italic">“She brings a rare mix of creativity, empathy, and strategy to every project. If you&#39;re building a brand that matters, Anna is the partner you want by your side.”</p>
             <p className="mt-4 font-semibold">— Anurag Maloo, Voice of Glacier Foundation</p>
           </div>
           <div className="bg-[#F3F7F5] p-8 rounded-2xl shadow-sm text-lg">
@@ -330,7 +330,7 @@ const GoodestHome = () => {
             <p className="mt-4 font-semibold">— Cassie Leonard, Best Selling Author</p>
           </div>
           <div className="bg-[#F3F7F5] p-8 rounded-2xl shadow-sm text-lg">
-            <p className="italic">“Every time I visit my own website, her illustrations make me smile, and remind me of what's at stake, why I do my job. They seem to do the same for my clients: Since we launched the new site, I had to set up a waitlist.”</p>
+            <p className="italic">“Every time I visit my own website, her illustrations make me smile, and remind me of what&#39;s at stake, why I do my job. They seem to do the same for my clients: Since we launched the new site, I had to set up a waitlist.”</p>
             <p className="mt-4 font-semibold">— Nicole König, Ethical Marketer</p>
           </div>
         </div>
