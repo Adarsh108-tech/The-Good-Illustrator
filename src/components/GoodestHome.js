@@ -267,7 +267,7 @@ const GoodestHome = () => {
         {/* Left Text Content */}
         <div className="flex-1 w-full text-gray-700 text-sm sm:text-base md:text-lg leading-relaxed space-y-4">
           <p className="text-base sm:text-lg">
-            In a world where greenwashing is the norm, "good" isn&#39;t good enough. We operate with only goodest
+            In a world where greenwashing is the norm, &quot;good&quot; isn&#39;t good enough. We operate with only goodest
             intentions:
           </p>
 
@@ -322,15 +322,15 @@ const GoodestHome = () => {
         <p className="text-xl mb-10 text-gray-600">Don&#39;t just take our word for it. Hear directly from the goodest brands who are already making an unforgettable impact with their new visual identities.</p>
         <div className="grid md:grid-cols-3 gap-10 max-w-6xl mx-auto text-left">
           <div className="bg-[#F3F7F5] p-8 rounded-2xl shadow-sm text-lg">
-            <p className="italic">“She brings a rare mix of creativity, empathy, and strategy to every project. If you&#39;re building a brand that matters, Anna is the partner you want by your side.”</p>
+            <p className="italic">&quot;She brings a rare mix of creativity, empathy, and strategy to every project. If you&#39;re building a brand that matters, Anna is the partner you want by your side.&quot;</p>
             <p className="mt-4 font-semibold">— Anurag Maloo, Voice of Glacier Foundation</p>
           </div>
           <div className="bg-[#F3F7F5] p-8 rounded-2xl shadow-sm text-lg">
-            <p className="italic">“Anna has been an absolute joy to work with. We partnered with Anna to develop the cover and interior artwork for our upcoming book, and I have been overjoyed with the process and results.”</p>
+            <p className="italic">&quot;Anna has been an absolute joy to work with. We partnered with Anna to develop the cover and interior artwork for our upcoming book, and I have been overjoyed with the process and results.&quot;</p>
             <p className="mt-4 font-semibold">— Cassie Leonard, Best Selling Author</p>
           </div>
           <div className="bg-[#F3F7F5] p-8 rounded-2xl shadow-sm text-lg">
-            <p className="italic">“Every time I visit my own website, her illustrations make me smile, and remind me of what&#39;s at stake, why I do my job. They seem to do the same for my clients: Since we launched the new site, I had to set up a waitlist.”</p>
+            <p className="italic">&quot;Every time I visit my own website, her illustrations make me smile, and remind me of what&#39;s at stake, why I do my job. They seem to do the same for my clients: Since we launched the new site, I had to set up a waitlist.&quot;</p>
             <p className="mt-4 font-semibold">— Nicole König, Ethical Marketer</p>
           </div>
         </div>
