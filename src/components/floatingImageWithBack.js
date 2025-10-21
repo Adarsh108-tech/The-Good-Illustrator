@@ -26,15 +26,6 @@ export default function FloatingImagesWithBackground() {
 
   return (
     <div className="relative w-full h-[70vh] sm:h-[80vh] md:h-screen overflow-hidden">
-      {/* Background Image */}
-      <Image
-        src="/images/hero/Imgbackground.png"
-        alt="Background"
-        fill
-        className="object-cover z-0"
-        priority
-      />
-
       {/* Floating Images */}
       {images.map((img, index) => (
         <motion.div
@@ -59,8 +50,6 @@ export default function FloatingImagesWithBackground() {
         </motion.div>
       ))}
 
-      {/* Gradient Overlay for visibility on small screens */}
-      <div className="absolute inset-0 bg-gradient-to-b from-white/0 via-white/10 to-white/40 md:hidden"></div>
     </div>
   );
 }
