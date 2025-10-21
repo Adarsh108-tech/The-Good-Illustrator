@@ -182,7 +182,7 @@ const GoodestHome = () => {
         className="text-4xl md:text-5xl font-bold text-dunkelblau mb-6"
         style={{ fontFamily: "'Heretical Smooth', sans-serif" }}
       >
-        Beyond “Pretty”
+        Beyond Pretty
       </h2>
       <p className="text-lg md:text-xl text-gray-700 mb-10 leading-relaxed">
         Imagine if you could simply focus on the goodest work that needs to be done. 
@@ -215,7 +215,7 @@ const GoodestHome = () => {
       },
       {
         title: "Your Confidence Boost",
-        desc: "No more hesitation when sharing your website or pitch deck. You’ll feel aligned, confident, and ready to shine on any global stage — your brand as your strongest ally.",
+        desc: "No more hesitation when sharing your website or pitch deck. You'll feel aligned, confident, and ready to shine on any global stage — your brand as your strongest ally.",
         image: "/images/scribbles-icons/confidence.svg",
         bg: "bg-turkis/30",
       },
@@ -278,7 +278,7 @@ const GoodestHome = () => {
     {/* 🌍 Left Text Content */}
     <div className="flex-1 text-gray-800 text-base lg:text-lg leading-relaxed space-y-5 bg-white/60 backdrop-blur-sm p-6 md:p-8 rounded-3xl shadow-md border border-turkis/30">
       <p className="text-dunkelblau text-lg md:text-xl font-medium">
-        In a world where greenwashing is the norm, “good” isn&#39;t good enough. We operate with only
+        In a world where greenwashing is the norm, &quot;good&quot; isn&#39;t good enough. We operate with only
         <span className="text-turkis font-semibold"> goodest intentions</span>:
       </p>
 
@@ -382,7 +382,7 @@ const GoodestHome = () => {
       },
       {
         quote:
-          "Every time I visit my own website, her illustrations make me smile, and remind me of what’s at stake, why I do my job. They seem to do the same for my clients: Since we launched the new site, I had to set up a waitlist.",
+          "Every time I visit my own website, her illustrations make me smile, and remind me of what's at stake, why I do my job. They seem to do the same for my clients: Since we launched the new site, I had to set up a waitlist.",
         author: "Nicole König",
         role: "Ethical Marketer",
         image: "/images/testimonials/nicol.webp",

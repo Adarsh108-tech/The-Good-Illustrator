@@ -36,7 +36,7 @@ export default function TermsAndConditions() {
         <section>
           <h2 className="text-2xl font-semibold text-turkis mb-3">1. General</h2>
           <p>
-            These General Terms and Conditions (GTC) take effect as soon as you (as the &quote;Client&quote;)
+            These General Terms and Conditions (GTC) take effect as soon as you (as the &quot;Client&quot;)
             engage in any service provided by Anna Korlath (whether via email, acceptance of a quote,
             or other means). These terms govern the entire legal relationship and the provision of
             services between Anna Korlath (&apos;we&apos; or &apos;us&apos;) and you.
