@@ -114,7 +114,7 @@ export default function HallOfFameSection() {
           asChild
           className="mt-12 bg-turkis hover:bg-[#246d68] text-offwhite font-semibold px-8 py-4 rounded-2xl text-lg shadow-md hover:shadow-lg transition-all"
         >
-          <a href="#">Become our next client</a>
+          <a href="/contact">Become our next client</a>
         </Button>
       </motion.div>
     </section>

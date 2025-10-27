@@ -53,7 +53,7 @@ export default function BeyondPretty() {
             asChild
             className="bg-orange hover:bg-[#e66f00] text-offwhite px-10 py-4 rounded-2xl text-lg font-semibold shadow-md hover:shadow-lg transition-all duration-300"
           >
-            <a href="#">Get in Touch</a>
+            <a href="/contact">Get in Touch</a>
           </Button>
         </motion.div>
       </div>

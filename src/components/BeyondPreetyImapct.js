@@ -107,7 +107,7 @@ export default function BeyondPrettyImpact() {
               asChild
               className="mt-6 sm:mt-8 bg-turkis hover:bg-[#246d68] text-offwhite font-semibold px-5 sm:px-8 py-3 sm:py-4 rounded-xl sm:rounded-2xl text-xs md:text-lg shadow-md hover:shadow-lg transition-all text-center w-full"
             >
-              <a href="#">This is a values match! Let&#39;s work together</a>
+              <a href="/contact">This is a values match! Let&#39;s work together</a>
             </Button>
           </motion.div>
         </motion.div>
