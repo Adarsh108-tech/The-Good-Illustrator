@@ -122,8 +122,8 @@ Consumer Dispute Resolution/Universal Arbitration Board: Not willing or obliged 
         {/* 🧡 Bottom Line */}
         <div className="border-t border-[#32817b]/30 mt-10 pt-6 text-center text-[10px] sm:text-xs md:text-sm text-gray-300 leading-relaxed">
           Built with Love by{" "}
-          <span className="text-[#FFBB2C] font-semibold">
-            The Good Illustrator
+          <span className="text-[#FFBB2C] font-semibold hover:text-offwhite">
+            <a href="https://www.linkedin.com/in/adarsh-tiwari-5084ab256/">Adarsh Tiwari</a>
           </span>{" "}
           | All rights reserved © 2025
         </div>
